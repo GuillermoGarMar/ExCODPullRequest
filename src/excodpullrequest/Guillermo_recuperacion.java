@@ -7,8 +7,8 @@ package excodpullrequest;
 
 /**
  *
- * @author ggarciamartinez
+ * @author guille
  */
-public class GuillermoGarciaMartinez {
+public class Guillermo_recuperacion {
     
 }
